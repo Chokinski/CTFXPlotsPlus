@@ -1,0 +1,35 @@
+.axis {
+    -fx-minor-tick-visible: true;
+    -fx-minor-tick-length: 5.0px;
+    -fx-tick-label-fill: rgba(236, 240, 241, 1);
+    -fx-tick-mark-stroke: rgba(236, 240, 241, 1);
+}
+.ohlc-chart {
+    -fx-background-color: rgba(44, 62, 80, 1);
+    background-color: rgba(44, 62, 80, 1);
+}
+
+.ohlc-chart .chart-alternative-column-fill {
+    -fx-fill: rgba(52, 73, 94, 1);
+    fill: rgba(52, 73, 94, 1);
+}
+
+.ohlc-chart .chart-alternative-row-fill {
+    -fx-fill: rgba(52, 73, 94, 1);
+    fill: rgba(52, 73, 94, 1);
+}
+
+.ohlc-chart .chart-horizontal-grid-lines {
+    -fx-stroke: rgba(149, 165, 166, 1);
+    stroke: rgba(149, 165, 166, 1);
+}
+
+.ohlc-chart .chart-vertical-grid-lines {
+    -fx-stroke: rgba(149, 165, 166, 1);
+    stroke: rgba(149, 165, 166, 1);
+}
+
+.ohlc-chart .chart-plot-background {
+    -fx-background-color: rgba(44, 62, 80, 1);
+    background-color: rgba(44, 62, 80, 1);
+}
